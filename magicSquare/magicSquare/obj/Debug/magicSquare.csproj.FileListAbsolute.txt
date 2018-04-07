@@ -1,0 +1,9 @@
+c:\users\farrukh ahmed\documents\visual studio 2012\Projects\magicSquare\magicSquare\bin\Debug\magicSquare.exe.config
+c:\users\farrukh ahmed\documents\visual studio 2012\Projects\magicSquare\magicSquare\bin\Debug\magicSquare.exe
+c:\users\farrukh ahmed\documents\visual studio 2012\Projects\magicSquare\magicSquare\bin\Debug\magicSquare.pdb
+c:\users\farrukh ahmed\documents\visual studio 2012\Projects\magicSquare\magicSquare\obj\Debug\magicSquare.csprojResolveAssemblyReference.cache
+c:\users\farrukh ahmed\documents\visual studio 2012\Projects\magicSquare\magicSquare\obj\Debug\magicSquare.exe
+c:\users\farrukh ahmed\documents\visual studio 2012\Projects\magicSquare\magicSquare\obj\Debug\magicSquare.pdb
+C:\Users\Farrukh Ahmed\Desktop\magicSquare\magicSquare\magicSquare\bin\Debug\magicSquare.exe.config
+C:\Users\Farrukh Ahmed\Desktop\magicSquare\magicSquare\magicSquare\obj\Debug\magicSquare.exe
+C:\Users\Farrukh Ahmed\Desktop\magicSquare\magicSquare\magicSquare\obj\Debug\magicSquare.pdb
